@@ -1,4 +1,4 @@
-# anthroappReact
+# AnthroAppReact
 
 Description:
 This project is meant to be a database app for the anthropology department at rollins college. 
