@@ -1,2 +1,20 @@
 # anthroappReact
 
+Description:
+This project is meant to be a database app for the anthropology department at rollins college. 
+It is made to be able to organize, sort and catalog different reallife files into a more 
+accessible format for new students. 
+
+Prerequisites:
+
+To work on this you will need:
+
+JavaScript 
+Reactjs
+.Net
+
+
+How to install:
+
+How to Use:
+
