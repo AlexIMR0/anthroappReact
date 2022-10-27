@@ -8,10 +8,22 @@ accessible format for new students.
 Prerequisites:
 
 To work on this you will need:
+JavaScriptm 
+Reactjs,
+ASP.NET
 
-JavaScript 
-Reactjs
-.Net
+Useful Links:
+Microsoft Docs ASP.NET Core Minimal Web APIs:
+https://docs.microsoft.com/en-us/aspn...
+
+Traversy Media Free React Crash Course (React knowledge level I assume you have):
+https://www.youtube.com/watch?v=w7ejD...
+
+Microsoft Docs EF Core CLI:
+https://docs.microsoft.com/en-us/ef/c...
+
+Create React App:
+https://reactjs.org/docs/create-a-new...
 
 
 How to install:
