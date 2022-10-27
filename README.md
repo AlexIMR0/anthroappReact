@@ -16,9 +16,6 @@ Useful Links:
 Microsoft Docs ASP.NET Core Minimal Web APIs:
 https://docs.microsoft.com/en-us/aspn...
 
-Traversy Media Free React Crash Course (React knowledge level I assume you have):
-https://www.youtube.com/watch?v=w7ejD...
-
 Microsoft Docs EF Core CLI:
 https://docs.microsoft.com/en-us/ef/c...
 
