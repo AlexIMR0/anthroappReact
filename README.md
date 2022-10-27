@@ -8,11 +8,15 @@ accessible format for new students.
 Prerequisites:
 
 To work on this you will need:
+
 JavaScriptm 
+
 Reactjs,
+
 ASP.NET
 
 Useful Links:
+
 Microsoft Docs ASP.NET Core Minimal Web APIs:
 https://docs.microsoft.com/en-us/aspn...
 
