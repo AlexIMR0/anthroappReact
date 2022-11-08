@@ -25,17 +25,15 @@ Microsoft SQL server Management studio/Datagrip,
 
 Useful Links:
 
-Microsoft Docs ASP.NET Core Minimal Web APIs:
-https://docs.microsoft.com/en-us/aspn...
+Microsoft .NET Download
+https://dotnet.microsoft.com/en-us/download
 
-Microsoft Docs EF Core CLI:
-https://docs.microsoft.com/en-us/ef/c...
+Microsoft .NET Docs
+https://learn.microsoft.com/en-us/dotnet/
 
 Create React App:
-https://reactjs.org/docs/create-a-new...
+https://reactjs.org/tutorial/tutorial.html
 
-
-How to install:
 
 How to Use:
 
